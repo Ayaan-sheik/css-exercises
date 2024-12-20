@@ -1,0 +1,20 @@
+.first,
+.idk{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id01{
+    color: blue;
+    font-size: 36px;
+}
+
+#id02{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.idk{
+    font-size: 24px;
+}
